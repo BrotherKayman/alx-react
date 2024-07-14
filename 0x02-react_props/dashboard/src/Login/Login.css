@@ -1,0 +1,12 @@
+.App {
+	background-color: #ffffff;
+	display: flex;
+	flex-direction: column;
+}
+
+.App-body {
+	display: flex;
+	flex-direction: column;
+	margin: 3rem;
+	min-height: 50vh;
+}

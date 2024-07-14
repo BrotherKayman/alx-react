@@ -1,0 +1,8 @@
+import React, { Component } from 'react'
+import logo from '../assets/logo.jpg'
+import { getFullYear, getFooterCopy } from '../utils/utils'
+import './App.css'
+import './Notifications'
+import './Login'
+import './Footer'
+import './Header'
